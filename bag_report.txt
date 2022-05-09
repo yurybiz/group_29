@@ -1,0 +1,16 @@
+Title:
+Status:
+Severity:
+Priority:
+Progect:
+Inviroment:
+Component:
+Version:
+Issue type:
+Preconditions:
+Steps:
+  1 ____;
+  2 ____;
+  3 ____
+Actual result:
+Expected result:
